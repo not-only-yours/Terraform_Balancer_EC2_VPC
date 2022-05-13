@@ -1,6 +1,6 @@
 # Terraform_Balancer_EC2_VPC
 
-% For using this config you need to add aws credentials to <mark>main.tf</mark>
+For using this config you need to add aws credentials to <mark>main.tf</mark>
 
 ```
 provider "aws" {
